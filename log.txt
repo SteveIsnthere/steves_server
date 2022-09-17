@@ -1,0 +1,3 @@
+{"timeString":"9/17/2022, 5:07:30 PM","ip":"::ffff:172.18.0.1","platform":"Go-http-client/1.1","requestURL":"/"}
+{"timeString":"9/17/2022, 5:07:30 PM","ip":"::ffff:172.18.0.1","platform":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15","requestURL":"/"}
+{"timeString":"9/17/2022, 5:07:35 PM","ip":"::ffff:172.18.0.1","platform":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","requestURL":"/"}
