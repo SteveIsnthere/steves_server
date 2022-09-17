@@ -19,7 +19,7 @@ router.get('/', logger, (req, res) => {
         linesCount++; // on each linebreak, add +1 to 'linesCount'
     });
     rl.on('close', function () {
-        res.send(response + `Welcome to my server visitor number ${linesCount + 1}! Email me at privacyalwaysfirst@proton.me if you have any questions.`);
+        res.send(response + `Welcome to my server visitor number ${linesCount}! Email me at privacyalwaysfirst@proton.me if you have any questions.`);
     });
 })
 
